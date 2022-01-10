@@ -38,9 +38,9 @@ module: {
 }
 ```
 
-rem2px: srcRemValue*srfs*(ddw/sdw)
+rem2px: srcRemValue * srfs * (ddw / sdw)
 
-rem2rem: srcRemValue*srfs*(sdw/ddw)/drfs
+rem2rem: srcRemValue * srfs * (sdw / ddw) / drfs
 
 # License
 MIT © 2022 Duzhijie Inc.

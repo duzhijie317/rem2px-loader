@@ -1,6 +1,6 @@
 {
   "name": "rem2px-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "webpack rem2px rem2rem loader",
   "main": "index.js",
   "directories": {
